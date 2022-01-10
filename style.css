@@ -45,3 +45,13 @@ section{
     background-repeat: no-repeat;
     background-position-x: right;
 }
+.third-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.fifth-banner{
+    background-image: url(images/Natural\ travel\ design\ Images\,\ Stock\ Photos\ &\ Vectors\ _\ Shutterstock\ -\ Google\ Chrome\ 10_01_2022\ 17_01_35.png);
+    background-repeat: no-repeat;
+    background-position:2% ;
+}
