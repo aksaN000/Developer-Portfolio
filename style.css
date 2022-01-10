@@ -53,5 +53,11 @@ section{
 .fifth-banner{
     background-image: url(images/Natural\ travel\ design\ Images\,\ Stock\ Photos\ &\ Vectors\ _\ Shutterstock\ -\ Google\ Chrome\ 10_01_2022\ 17_01_35.png);
     background-repeat: no-repeat;
-    background-position:2% ;
+    background-position:2%;
+}
+.last-banner{
+    background-image: url(images/Travel\ design\ Images\,\ Stock\ Photos\ &\ Vectors\ _\ Shutterstock\ -\ Google\ Chrome\ 10_01_2022\ 15_28_11.0\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position-y:center;
+    background-position:2%;
 }
