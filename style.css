@@ -61,3 +61,36 @@ h1{
     background-position-y:center;
     background-position:2%;
 }
+.for-shadow{
+    width: fit-content;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 15px 40px grey;
+    border-left:solid blueviolet 10px;
+}
+h5{
+    font-size: 40px;
+}
+.GUIDELINES{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#for-color-left{
+    border-left: 8px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+
+}
+#for-color-right{
+    border-left: 8px solid;
+    border-image:linear-gradient(red,purple);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
