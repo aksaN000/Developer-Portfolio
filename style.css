@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -17,6 +18,15 @@ section{
 }
 .half-width img{
     width: 60%;
+}
+.half-width-2 img{
+    padding-left: 2%;
+    width: 80%;
+    height: 82%;
+}
+.half-width-2{
+    width: 50%;
+    padding: right 2%;
 }
 .link-button{
     text-decoration: none;
@@ -29,4 +39,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url(images/Travel\ design\ Images\,\ Stock\ Photos\ &\ Vectors\ _\ Shutterstock\ -\ Google\ Chrome\ 10_01_2022\ 15_28_11.0\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position-x: right;
 }
